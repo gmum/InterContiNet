@@ -1,7 +1,7 @@
 # IntervalNet
 
 Code repository for "Continual Learning with Guarantees via Weight Interval Constraints" accepted to ICML 2022. 
-Paper link: [TODO](TODO)
+Paper link: [https://arxiv.org/abs/2206.07996](https://arxiv.org/abs/2206.07996)
 
 ## Setup
 
